@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### local config ###
-application-local.yaml
+application-local.properties
